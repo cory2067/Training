@@ -1,6 +1,8 @@
 Training
 ========
 
+#Please don't look at my code when solving the training set
+
 This is designed to be use with Team 2067's LabVIEW course.
 Here are the exercises included:
 
